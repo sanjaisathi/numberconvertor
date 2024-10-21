@@ -4,8 +4,11 @@
 ## Overview
 The **Number Conversion App** is a web-based tool that allows users to easily convert numbers between different numeral systems such as Binary (Base 2), Decimal (Base 10), Octal (Base 8), and Hexadecimal (Base 16). Whether you're a programmer or someone exploring number systems, this app provides a straightforward interface for fast and accurate conversions.
 
+
+
 ## Motivation
 This app was created to help users understand and convert between different number systems, which is a fundamental skill in fields like computer science, engineering, and mathematics. It simplifies the process by automating conversions that can be error-prone when done manually.
+
 
 ## Features
 - **Multiple Base Support**: Convert numbers between Binary, Decimal, Octal, and Hexadecimal systems.
